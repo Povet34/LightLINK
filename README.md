@@ -7,13 +7,15 @@ LightLINK
 
 
 - Stat
+
+
   https://github.com/user-attachments/assets/85f0e556-5271-4855-9842-4287fa0ac805
+
   - 자동차의 램프영역에 빛이 들어오지 않음
   - 30Fps 이하
 
 - 프로파일링 결과
-  https://github.com/user-attachments/assets/7d167d98-e3e3-4beb-8934-86efa93e4994
-
+- 
 
 ### 원인
 - 차체의 Mesh가 너무 많이 분할되어있음

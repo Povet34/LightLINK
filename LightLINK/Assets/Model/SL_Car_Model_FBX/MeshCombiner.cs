@@ -135,7 +135,6 @@ public class MeshCombiner : MonoBehaviour
 
     #endregion
 
-
     #region MaxVertex
 
     public void CombineMeshes_MaxVertex()

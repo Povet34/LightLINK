@@ -1471,7 +1471,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 77503645165768066}
-  - component: {fileID: 8540698056054710269}
   m_Layer: 0
   m_Name: SL_CAR_BODY
   m_TagString: Untagged
@@ -1553,20 +1552,6 @@ Transform:
   - {fileID: 959950791658558444}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: -3.529, z: 0}
---- !u!114 &8540698056054710269
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3335418029656512893}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4c49c061d1a33a14f908678a6cd3022a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  combineOnStart: 1
-  margeType: 2
 --- !u!1 &3993598130895765884
 GameObject:
   m_ObjectHideFlags: 0

@@ -41,6 +41,7 @@ LightLINK
     - 두개의 SRP Batcher로 나누어진(Emission과 Non Emission) Draw Opaque 부분
 
    - 하지만 여전히 RenderLoop의 시간이 길어서 CPU가 기다리고 있는 상태.
+   - 이 부분은 불필요한 PP를 제거하고, 사용하지 않는 Camera를 Off해줌으로써 해결
 
 
       <details>
